@@ -59,22 +59,22 @@
       {
         "social_name": "Website",
         "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/web.png",
-        "social_url": "https://radioshancayan.com/"
+        "social_url": "https://radiomarket.pe"
       },
       {
         "social_name": "Facebook",
         "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/facebook.png",
-        "social_url": "https://www.facebook.com/profile.php?id=100064024833899"
+        "social_url": "https://www.facebook.com/radiomarket.pe"
       },
       {
         "social_name": "WhatsApp",
         "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/whatsapp.png",
-        "social_url": "https://api.whatsapp.com/send?phone=51943246090"
+        "social_url": "https://radiomarket.pe"
       },
       {
         "social_name": "Instagram",
         "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/instagram.png",
-        "social_url": "https://www.instagram.com/radio_shancayan"
+        "social_url": "https://www.instagram.com/radiomarket.pe"
       }
     ]
   }
