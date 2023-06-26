@@ -3,9 +3,9 @@
       {
         "radio_name": "Radio Shancayan",
         "radio_genre": "Huaraz",
-        "radio_url": "https://raymistream.net/listen/shancayan/stream",
-        "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/shancayan-logo.png",
-        "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Images/Background-shancayan.png",
+        "radio_url": "https://www.perustream.net/listen/radiomarket/stream",
+        "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/RadioMarket-Radio-Stream/main/Images/RadioMarket_logo.png",
+        "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/RadioMarket-Radio-Stream/main/Images/Background.png",
         "blur_radio_background": "false",
         "song_metadata": "true",
         "image_album_art": "true",
