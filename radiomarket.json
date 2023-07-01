@@ -69,7 +69,7 @@
       {
         "social_name": "WhatsApp",
         "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/whatsapp.png",
-        "social_url": "https://radiomarket.pe"
+        "social_url": "https://api.whatsapp.com/send?phone=%2B51922555211&app=facebook&entry_point=page_cta"
       },
       {
         "social_name": "Instagram",
