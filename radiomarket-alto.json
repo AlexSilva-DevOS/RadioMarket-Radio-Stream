@@ -1,0 +1,80 @@
+{
+    "radio": [
+      {
+        "radio_name": "Radio Market",
+        "radio_genre": "Alto",
+        "radio_url": "https://www.perustream.net/listen/marketalto/stream",
+        "radio_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/RadioMarket-Radio-Stream/main/Images/RadioMarket_logo.png",
+        "background_image_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/RadioMarket-Radio-Stream/main/Images/Background.png",
+        "blur_radio_background": "false",
+        "song_metadata": "true",
+        "image_album_art": "true",
+        "image_album_art_dynamic_background": "false",
+        "auto_play": "true"
+      }
+    ],
+    "settings": [
+      {
+        "app_status": "1",
+        "onesignal_app_id": "",
+        "fcm_notification_topic": "",
+        "privacy_policy_url": "https://raw.githubusercontent.com/AlexSilva-DevOS/RadioMarket-Radio-Stream/main/Privacy/radiomarket.md",
+        "more_apps_url": "https://play.google.com/store/apps/details?id=com.radiomarket.app",
+        "redirect_url": ""
+      }
+    ],
+    "ads": [
+      {
+        "ad_status": "0",
+        "ad_type": "admob",
+        "backup_ads": "none",
+        "admob_publisher_id": "",
+        "admob_banner_unit_id": "",
+        "admob_interstitial_unit_id": "",
+        "admob_native_unit_id": "",
+        "admob_app_open_ad_unit_id": "",
+        "ad_manager_banner_unit_id": "",
+        "ad_manager_interstitial_unit_id": "",
+        "ad_manager_native_unit_id": "",
+        "ad_manager_app_open_ad_unit_id": "",
+        "fan_banner_unit_id": "",
+        "fan_interstitial_unit_id": "",
+        "fan_native_unit_id": "",
+        "startapp_app_id": "0",
+        "unity_game_id": "",
+        "unity_banner_placement_id": "banner",
+        "unity_interstitial_placement_id": "video",
+        "applovin_banner_ad_unit_id": "0",
+        "applovin_interstitial_ad_unit_id": "0",
+        "applovin_native_ad_manual_unit_id": "0",
+        "applovin_banner_zone_id": "0",
+        "applovin_interstitial_zone_id": "0",
+        "ironsource_app_key": "",
+        "ironsource_banner_placement_name": "",
+        "ironsource_interstitial_placement_name": "",
+        "interstitial_ad_interval": 0
+      }
+    ],
+    "socials": [
+      {
+        "social_name": "Website",
+        "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/web.png",
+        "social_url": "https://radiomarket.pe"
+      },
+      {
+        "social_name": "Facebook",
+        "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/facebook.png",
+        "social_url": "https://www.facebook.com/radiomarket.pe"
+      },
+      {
+        "social_name": "WhatsApp",
+        "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/whatsapp.png",
+        "social_url": "https://api.whatsapp.com/send?phone=%2B51922555211&app=facebook&entry_point=page_cta"
+      },
+      {
+        "social_name": "Instagram",
+        "social_icon": "https://raw.githubusercontent.com/AlexSilva-DevOS/Shancayan-Radio-Stream/main/Icons/instagram.png",
+        "social_url": "https://www.instagram.com/radiomarket.pe"
+      }
+    ]
+  }
